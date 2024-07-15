@@ -1,0 +1,7 @@
+C:\Users\roshani.poojari\Desktop\Training\PigDiceGame\bin\Debug\PigDiceGame.exe.config
+C:\Users\roshani.poojari\Desktop\Training\PigDiceGame\bin\Debug\PigDiceGame.exe
+C:\Users\roshani.poojari\Desktop\Training\PigDiceGame\bin\Debug\PigDiceGame.pdb
+C:\Users\roshani.poojari\Desktop\Training\PigDiceGame\obj\Debug\PigDiceGame.csproj.AssemblyReference.cache
+C:\Users\roshani.poojari\Desktop\Training\PigDiceGame\obj\Debug\PigDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\PigDiceGame\obj\Debug\PigDiceGame.exe
+C:\Users\roshani.poojari\Desktop\Training\PigDiceGame\obj\Debug\PigDiceGame.pdb
